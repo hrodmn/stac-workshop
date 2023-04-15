@@ -1,0 +1,6 @@
+pystac
+pystac_client
+rasterio
+rioxarray
+stackstac
+xarray
